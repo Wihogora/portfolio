@@ -1,3 +1,17 @@
-.portfolio h1{
-text-align: center;
+body{
+    background-color: bisque;
 }
+.portfolio h1{
+    text-align: center;
+    color: brown
+}
+.portfolio h2{
+    text-align: center;
+    color: blueviolet
+    }
+.portfolio img{
+    margin-left:300px;
+    height:100px;
+    weight: 50px;
+    border-block-end-style: dashed
+        }
