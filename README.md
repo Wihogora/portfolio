@@ -1,6 +1,6 @@
 #   Wihogora Wivine
-#### Portfolio, 10 Dec 2018
-#### By **Wihogora**
+#### My Portfolio, 10th Dec 2018
+#### By ** Wivine Wihogora**
 ## Description
 this page is about making a landpage it has my names,about me,my background,my interests and hobbies.
 ## Setup/Installation Requirements
