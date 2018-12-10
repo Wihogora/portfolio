@@ -19,11 +19,15 @@ body{
         }
 #school ol li{
     padding-bottom: 10px;
+}
+#school h1{
     text-align: center;
     color: blueviolet;
 }
 #hobbies ul li{
     padding-bottom: 10px;
-    text-align: center;
-    color: blueviolet;
-}
+    }
+    #hobbies h1{
+        text-align: center;
+        color: blueviolet;  
+    }
