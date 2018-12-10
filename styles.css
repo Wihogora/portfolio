@@ -20,8 +20,10 @@ body{
 #school ol li{
     padding-bottom: 10px;
 }
-
-
+#hobbies h2{
+    text-align: center;
+    color: blueviolet;   
+}
 #hobbies ul li{
     padding-bottom: 10px;
     }
