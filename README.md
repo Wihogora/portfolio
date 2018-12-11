@@ -1,12 +1,12 @@
+## Author
 #   Wihogora Wivine
 #### My Portfolio, 10th Dec 2018
-#### By ** Wivine Wihogora**
 ## Description
 this page is about making a landpage it has my names,about me,my background,my interests and hobbies.
 ## Setup/Installation Requirements
 * git clone https://github.com/Wihogora/portfolio
-*cd portfolio
-*code .
+* cd portfolio
+* code .
 ## Known Bugs
 I did an html page and then i styled using css.
 ## Technologies Used
