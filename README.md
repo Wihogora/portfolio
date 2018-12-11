@@ -4,7 +4,7 @@
 ## Description
 this page is about making a landpage it has my names,about me,my background,my interests and hobbies.
 ## Setup/Installation Requirements
-* git clone https://github.com/Wihogora/portfolio
+* git clone  https://wihogora.github.io/portfolio/
 * cd portfolio
 * code .
 ## Known Bugs
